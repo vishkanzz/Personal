@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="180.96468mm"
-   height="156.9845mm"
-   viewBox="0 0 180.96468 156.9845"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="Grand_AVREC.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.854328"
-     inkscape:cx="397.38836"
-     inkscape:cy="561.25984"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="2552"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.51955398"
+     inkscape:cx="596.66563"
+     inkscape:cy="484.06905"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
@@ -39,13 +39,7 @@
        y="367.66"
        width="79.231079"
        height="58.380795"
-       id="rect14-11" />
-    <rect
-       x="189.04257"
-       y="367.66"
-       width="79.231079"
-       height="58.380795"
-       id="rect14-04-2" />
+       id="rect136-5" />
     <rect
        x="189.04257"
        y="367.66"
@@ -57,15 +51,20 @@
        y="367.66"
        width="79.231079"
        height="58.380795"
-       id="rect136-5" />
+       id="rect14-04-2" />
+    <rect
+       x="189.04257"
+       y="367.66"
+       width="79.231079"
+       height="58.380795"
+       id="rect14-11" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-8.2164728,-19.343788)">
+     id="layer1">
     <g
-       transform="matrix(0.04962603,0,0,0.04962603,57.64602,39.793116)"
+       transform="matrix(0.04962603,0,0,0.04962603,58.769137,47.2016)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g49-6-6">
       <text
@@ -76,7 +75,7 @@
          id="text48-0"> First poke with reward</text>
     </g>
     <g
-       transform="matrix(0.04962603,0,0,0.04962603,83.60861,37.204098)"
+       transform="matrix(0.04962603,0,0,0.04962603,84.731727,44.612582)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g49-6-3-4">
       <text
@@ -89,7 +88,7 @@
    id="tspan35-4">Grand averaged average rectified signals</tspan></text>
     </g>
     <g
-       transform="matrix(0.05095932,0,0,0.05095932,56.87315,105.16099)"
+       transform="matrix(0.05095932,0,0,0.05095932,57.996267,112.56947)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g49-7-3">
       <text
@@ -100,7 +99,7 @@
          id="text48-1-6">Last rewarded poke</text>
     </g>
     <g
-       transform="matrix(0,-0.05095932,0.05095932,0,11.983914,101.66074)"
+       transform="matrix(0,-0.05095932,0.05095932,0,13.107034,109.06922)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g49-7-6-6">
       <text
@@ -113,7 +112,7 @@
    id="tspan1142">2</tspan>]</text>
     </g>
     <g
-       transform="matrix(0.05095932,0,0,0.05095932,117.73246,177.00198)"
+       transform="matrix(0.05095932,0,0,0.05095932,118.85558,184.41046)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g49-7-6-3-6">
       <text
@@ -124,7 +123,7 @@
          id="text48-1-8-5-9">Time [s]</text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,161.47244,40.011596)"
+       transform="matrix(0.06190477,0,0,0.06190477,162.59556,47.42008)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g51-36-7">
       <text
@@ -135,7 +134,7 @@
          id="text50-9-0">First poke without reward</text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,152.59786,105.92856)"
+       transform="matrix(0.06190477,0,0,0.06190477,153.72098,113.33704)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g50-1-7">
       <text
@@ -146,7 +145,7 @@
          id="text49-5">Last poke without reward</text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,84.76553,168.52331)"
+       transform="matrix(0.06190477,0,0,0.06190477,85.888647,175.93179)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g50-1-8-2">
       <text
@@ -159,7 +158,7 @@
            id="tspan36-97">-1   -0.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,11.668542,80.703692)"
+       transform="matrix(0.06190477,0,0,0.06190477,12.791662,88.11218)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g50-1-8-0-1-8">
       <text
@@ -180,7 +179,7 @@
            id="tspan110">0</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,162.8556,47.676961)"
+       transform="matrix(0.06190477,0,0,0.06190477,163.97872,55.085445)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g50-1-8-16-93">
       <text
@@ -222,7 +221,7 @@
     <g
        id="g42"
        style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.27572;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       transform="matrix(0.15277126,0,0,0.15250522,18.773245,35.89624)">
+       transform="matrix(0.15277126,0,0,0.15250522,19.896365,43.304724)">
       <defs
          id="defs2" />
       <g
@@ -388,7 +387,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,11.031742,31.621189)"
+       transform="matrix(0.06190477,0,0,0.06190477,12.154862,39.029673)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g85-4">
       <text
@@ -401,7 +400,7 @@
            id="tspan85">3</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,11.668542,39.957833)"
+       transform="matrix(0.06190477,0,0,0.06190477,12.791662,47.366317)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g86-53">
       <text
@@ -422,7 +421,7 @@
            id="tspan112">2.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,11.668542,47.895338)"
+       transform="matrix(0.06190477,0,0,0.06190477,12.791662,55.303822)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g87-0">
       <text
@@ -443,7 +442,7 @@
            id="tspan113">2</tspan></text>
     </g>
     <g
-       transform="matrix(0.06722098,0,0,0.06722098,10.563777,55.42298)"
+       transform="matrix(0.06722098,0,0,0.06722098,11.686897,62.831464)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g88-1">
       <text
@@ -464,7 +463,7 @@
            id="tspan114">1.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,11.668542,64.299515)"
+       transform="matrix(0.06190477,0,0,0.06190477,12.791662,71.707999)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g89-9">
       <text
@@ -485,7 +484,7 @@
            id="tspan115">1</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,11.668542,72.766187)"
+       transform="matrix(0.06190477,0,0,0.06190477,12.791662,80.17467)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g90-52">
       <text
@@ -506,7 +505,7 @@
            id="tspan116">0.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,10.081041,25.670328)"
+       transform="matrix(0.06190477,0,0,0.06190477,11.204161,33.078812)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g91-0">
       <text
@@ -529,7 +528,7 @@
     <g
        id="g42-5"
        style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.27571;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       transform="matrix(0.15277216,0,0,0.15250522,109.47901,36.090174)">
+       transform="matrix(0.15277216,0,0,0.15250522,110.60213,43.498658)">
       <defs
          id="defs2-8" />
       <g
@@ -695,7 +694,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,253.71491,47.894353)"
+       transform="matrix(0.06190477,0,0,0.06190477,254.83803,55.302837)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g50-1-8-16-95">
       <text
@@ -735,7 +734,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,102.15612,80.703692)"
+       transform="matrix(0.06190477,0,0,0.06190477,103.27924,88.11218)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g102">
       <text
@@ -756,7 +755,7 @@
            id="tspan126">0</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,101.51932,31.621189)"
+       transform="matrix(0.06190477,0,0,0.06190477,102.64244,39.029673)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g103">
       <text
@@ -777,7 +776,7 @@
            id="tspan127">3</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,102.15612,39.957833)"
+       transform="matrix(0.06190477,0,0,0.06190477,103.27924,47.366317)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g104">
       <text
@@ -798,7 +797,7 @@
            id="tspan128">2.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,102.15612,47.895338)"
+       transform="matrix(0.06190477,0,0,0.06190477,103.27924,55.303822)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g105">
       <text
@@ -819,7 +818,7 @@
            id="tspan129">2</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,102.15612,56.36201)"
+       transform="matrix(0.06190477,0,0,0.06190477,103.27924,63.770494)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g106">
       <text
@@ -840,7 +839,7 @@
            id="tspan130">1.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,102.15612,64.299515)"
+       transform="matrix(0.06190477,0,0,0.06190477,103.27924,71.707999)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g107-9">
       <text
@@ -861,7 +860,7 @@
            id="tspan131">1</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,102.15612,72.766187)"
+       transform="matrix(0.06190477,0,0,0.06190477,103.27924,80.17467)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g108-2">
       <text
@@ -882,7 +881,7 @@
            id="tspan132">0.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,101.09778,25.670328)"
+       transform="matrix(0.06190477,0,0,0.06190477,102.2209,33.078812)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g109-5">
       <text
@@ -897,7 +896,7 @@
     <g
        id="g42-58"
        style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.27572;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       transform="matrix(0.152771,0,0,0.15250522,18.773262,102.19368)">
+       transform="matrix(0.152771,0,0,0.15250522,19.896382,109.60216)">
       <defs
          id="defs2-9" />
       <g
@@ -1063,7 +1062,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,11.031742,97.767059)"
+       transform="matrix(0.06190477,0,0,0.06190477,12.154862,105.17554)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g111-5">
       <text
@@ -1076,7 +1075,7 @@
            id="tspan111">3</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,162.8556,113.82284)"
+       transform="matrix(0.06190477,0,0,0.06190477,163.97872,121.23132)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g120">
       <text
@@ -1116,7 +1115,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,109.10728,168.52331)"
+       transform="matrix(0.06190477,0,0,0.06190477,110.2304,175.93179)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g121">
       <text
@@ -1131,7 +1130,7 @@
     <g
        id="g42-4"
        style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       transform="matrix(0.26458333,0,0,0.26458333,115.71571,117.79414)">
+       transform="matrix(0.26458333,0,0,0.26458333,116.83883,125.20262)">
       <defs
          id="defs2-0" />
       <g
@@ -1459,7 +1458,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,200.12452,168.52331)"
+       transform="matrix(0.06190477,0,0,0.06190477,201.24764,175.93179)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g124">
       <text
@@ -1472,7 +1471,7 @@
            id="tspan124">0    0.5    1    1.5    2 </tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,175.7827,168.52331)"
+       transform="matrix(0.06190477,0,0,0.06190477,176.90582,175.93179)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g125">
       <text
@@ -1485,7 +1484,7 @@
            id="tspan125">-1   -0.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,101.09778,91.816199)"
+       transform="matrix(0.06190477,0,0,0.06190477,102.2209,99.224682)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g133-5">
       <text
@@ -1498,7 +1497,7 @@
    id="tspan133">-4</tspan> x</text>
     </g>
     <g
-       transform="matrix(0.06190477,0,0,0.06190477,253.71491,114.04023)"
+       transform="matrix(0.06190477,0,0,0.06190477,254.83803,121.44871)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g136-8">
       <text
