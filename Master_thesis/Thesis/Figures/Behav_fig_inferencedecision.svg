@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="Behav_fig_inferencedecision.svg"
    inkscape:export-filename="Behav_fig_inferencedecision.png"
    inkscape:export-xdpi="1000"
@@ -27,14 +27,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.708656"
-     inkscape:cx="345.59326"
-     inkscape:cy="267.16905"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="2552"
-     inkscape:window-y="-8"
+     inkscape:cx="345.30063"
+     inkscape:cy="267.46168"
+     inkscape:window-width="1440"
+     inkscape:window-height="779"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g439"
+     inkscape:current-layer="g96"
      inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs1">
@@ -959,17 +959,6 @@
           </font>
         </defs>
         <g
-           transform="translate(117.89176,-0.29238527)"
-           style="font-weight:bold;font-size:17.6px;color-interpolation:linearRGB;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision"
-           id="g39-1">
-          <text
-             x="-210.37622"
-             xml:space="preserve"
-             y="-48.456703"
-             style="font-size:24px;stroke:none"
-             id="text38">Total consecutive unrewarded pokes before leaving</text>
-        </g>
-        <g
            style="color-interpolation:linearRGB;fill:#262626;stroke:#262626;stroke-width:2.6667;stroke-linejoin:round;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision"
            id="g57"
            transform="translate(0,-44.797464)">
@@ -1811,7 +1800,7 @@
         <g
            id="g2-54"
            style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-           transform="translate(-296.49637,-1.7926526)">
+           transform="matrix(0.57725722,0,0,0.57725722,-380.23949,-47.359478)">
           <g
              id="g439"
              transform="translate(-628.15271,395.99283)"
@@ -2674,29 +2663,68 @@
             </g>
           </g>
         </g>
+        <g
+           id="g5"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+           transform="matrix(0.57725722,0,0,0.57725722,364.1382,-50.926783)">
+          <g
+             id="g4"
+             transform="translate(-628.15271,395.99283)"
+             style="stroke-width:2.88;stroke-dasharray:none">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;color-interpolation:linearRGB;fill:#e50000;fill-opacity:1;stroke:#e50000;stroke-width:2.88;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+               x="787.03571"
+               y="-279.15024"
+               id="text1"><tspan
+                 sodipodi:role="line"
+                 id="tspan1"
+                 x="787.03571"
+                 y="-279.15024"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e50000;fill-opacity:1;stroke:none;stroke-width:2.88;stroke-dasharray:none;stroke-opacity:1">A1 = 1</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;color-interpolation:linearRGB;fill:#00e500;fill-opacity:1;stroke:#00e500;stroke-width:2.88;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+               x="806.39508"
+               y="-246.12515"
+               id="text2"><tspan
+                 sodipodi:role="line"
+                 id="tspan2"
+                 x="806.39508"
+                 y="-246.12515"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00e500;fill-opacity:1;stroke:none;stroke-width:2.88;stroke-dasharray:none;stroke-opacity:1">A2 = 0.75</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;color-interpolation:linearRGB;fill:#0000e5;fill-opacity:1;stroke:#0000e5;stroke-width:2.88;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+               x="800.28375"
+               y="-213.10007"
+               id="text3"><tspan
+                 sodipodi:role="line"
+                 id="tspan3"
+                 x="800.28375"
+                 y="-213.10007"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000e5;fill-opacity:1;stroke:none;stroke-width:2.88;stroke-dasharray:none;stroke-opacity:1">A3 = 0.5</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.88;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+               x="792.26813"
+               y="-180.07498"
+               id="text4"><tspan
+                 sodipodi:role="line"
+                 id="tspan4"
+                 x="792.26813"
+                 y="-180.07498"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.88;stroke-dasharray:none;stroke-opacity:1">Overall</tspan></text>
+            <rect
+               style="fill:none;fill-opacity:1;stroke:#262626;stroke-width:2.88;stroke-dasharray:none;stroke-opacity:1"
+               id="rect4"
+               width="118.72272"
+               height="152.60925"
+               x="743.39606"
+               y="-312.0368" />
+          </g>
+        </g>
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.55621px;line-height:1.25;font-family:Dialog;-inkscape-font-specification:'Dialog, ';letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.130224;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       x="19.435156"
-       y="42.830238"
-       id="text600"><tspan
-         sodipodi:role="line"
-         id="tspan600"
-         x="19.435156"
-         y="42.830238"
-         style="font-weight:bold;font-size:5.55621px;stroke-width:0.130224">A</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.55621px;line-height:1.25;font-family:Dialog;-inkscape-font-specification:'Dialog, ';letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.130224;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       x="98.660652"
-       y="42.830238"
-       id="text601"><tspan
-         sodipodi:role="line"
-         id="tspan601"
-         x="98.660652"
-         y="42.830238"
-         style="font-weight:bold;font-size:5.55621px;stroke-width:0.130224">B</tspan></text>
   </g>
 </svg>
