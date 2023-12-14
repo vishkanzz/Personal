@@ -27,11 +27,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.708656"
-     inkscape:cx="550.13999"
-     inkscape:cy="321.01254"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="2552"
+     inkscape:cx="267.46168"
+     inkscape:cy="411.72711"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g1221" />
@@ -473,11 +473,11 @@
        id="rect6-6"
        width="8.57335"
        height="34.516079"
-       x="48.411869"
-       y="66.309105" />
+       x="52.437939"
+       y="108.11828" />
     <g
        id="g49"
-       transform="matrix(0.08171421,0,0,0.0840489,17.670244,63.657508)"
+       transform="matrix(0.08171421,0,0,0.0840489,21.696313,105.46668)"
        style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.15524;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto">
       <defs
          id="defs1-95">
@@ -648,10 +648,10 @@
        id="rect143"
        width="2.144181"
        height="34.516079"
-       x="46.26709"
-       y="66.309105" />
+       x="50.293159"
+       y="108.11828" />
     <g
-       transform="matrix(0.03186456,0,0,0.03186456,-37.986282,62.772258)"
+       transform="matrix(0.03186456,0,0,0.03186456,-33.960213,104.58143)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g102-3">
       <text
@@ -693,7 +693,7 @@
            id="tspan143">1 </tspan></text>
     </g>
     <g
-       transform="matrix(0.03186456,0,0,0.03186456,-37.986282,29.269412)"
+       transform="matrix(0.03186456,0,0,0.03186456,-33.960213,71.078588)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g105-9">
       <text
@@ -706,7 +706,7 @@
            id="tspan99">2</tspan></text>
     </g>
     <g
-       transform="matrix(0.03186456,0,0,0.03186456,-37.986282,37.985598)"
+       transform="matrix(0.03186456,0,0,0.03186456,-33.960213,79.794774)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g106-2">
       <text
@@ -719,7 +719,7 @@
            id="tspan100">1.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.03186456,0,0,0.03186456,-37.986282,46.429405)"
+       transform="matrix(0.03186456,0,0,0.03186456,-33.960213,88.238581)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g107-4">
       <text
@@ -732,7 +732,7 @@
            id="tspan101">1</tspan></text>
     </g>
     <g
-       transform="matrix(0.03186456,0,0,0.03186456,-37.986282,55.145594)"
+       transform="matrix(0.03186456,0,0,0.03186456,-33.960213,96.95477)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g108-8">
       <text
@@ -745,7 +745,7 @@
            id="tspan121">0.5</tspan></text>
     </g>
     <g
-       transform="matrix(0.02623055,0,0,0.02623055,51.443686,98.265482)"
+       transform="matrix(0.02623055,0,0,0.02623055,55.469755,140.07466)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g97">
       <text
@@ -756,7 +756,7 @@
          id="text97">Time [s]</text>
     </g>
     <g
-       transform="matrix(0,-0.02623055,0.02623055,0,16.828518,73.121211)"
+       transform="matrix(0,-0.02623055,0.02623055,0,20.854587,114.93039)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g98">
       <text
@@ -769,7 +769,7 @@
    id="tspan1221">2</tspan>]</text>
     </g>
     <g
-       transform="matrix(0.03186456,0,0,0.03186456,13.695669,46.303057)"
+       transform="matrix(0.03186456,0,0,0.03186456,17.721738,88.112233)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g123">
       <text
@@ -782,7 +782,7 @@
    id="tspan122">-4</tspan> x</text>
     </g>
     <g
-       transform="matrix(0.02554426,0,0,0.02554426,56.471815,48.370887)"
+       transform="matrix(0.02554426,0,0,0.02554426,60.497884,90.180063)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g137-2">
       <text
@@ -798,7 +798,7 @@
        transform="matrix(0.13619034,0,0,0.13619034,78.463063,50.270101)">
       <g
          id="g93-2"
-         transform="matrix(3.7795276,0,0,3.7795276,-760.4095,-73.03487)">
+         transform="matrix(3.7795276,0,0,3.7795276,-730.84743,233.95589)">
         <g
            transform="matrix(0,-0.26458333,0.26458333,0,-149.97596,-69.043592)"
            style="font-style:normal;font-weight:bold;font-size:17.6px;font-family:Dialog;color-interpolation:linearRGB;fill:#262626;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
@@ -1214,12 +1214,12 @@
          id="rect143-4"
          width="328.99399"
          height="253.44"
-         x="84.749443"
-         y="118.624" />
+         x="114.31152"
+         y="425.61478" />
       <g
          id="g151"
          style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-         transform="translate(-820,74)">
+         transform="translate(-790.43793,380.99076)">
         <defs
            id="defs2-1">
           <clipPath
@@ -2222,7 +2222,7 @@
       <g
          id="g150"
          style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.11486;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-         transform="matrix(0.76352019,0,0,0.77754521,432.51267,94.953525)">
+         transform="matrix(0.76352019,0,0,0.77754521,462.07474,401.94429)">
         <defs
            id="defs2-3">
           <clipPath
@@ -3126,32 +3126,337 @@
          id="rect194"
          width="330.49399"
          height="253.44"
-         x="488.74945"
-         y="118.624" />
+         x="518.31152"
+         y="425.61478" />
+      <g
+         id="g6"
+         transform="matrix(7.8840847,0,0,7.8840847,-669.39731,-1406.897)">
+        <line
+           class="fil8 str5"
+           x1="77.513519"
+           y1="285.25134"
+           x2="43.067554"
+           y2="285.25134"
+           id="line274-9"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.208158;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+           transform="matrix(1.0736646,0,0,0.80713699,31.206834,-42.487159)" />
+        <text
+           x="57.455566"
+           y="284.61066"
+           class="fil55 fnt4"
+           id="text281-6"
+           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+           transform="matrix(0.80842408,0,0,0.80842408,43.339417,-42.855459)">Trial duration</text>
+        <g
+           id="g2-2"
+           transform="matrix(0.80842409,0,0,0.80842409,-4.660142,108.05379)"
+           inkscape:export-filename="behav_paradigm.tiff"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <line
+             class="fil8 str4"
+             x1="88.755096"
+             y1="121.56988"
+             x2="97.79821"
+             y2="121.56988"
+             id="line271-1"
+             style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <line
+             class="fil8 str4"
+             x1="88.758057"
+             y1="121.57073"
+             x2="88.758057"
+             y2="112.30631"
+             id="line272-1"
+             style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <text
+             x="88.75351"
+             y="126.38915"
+             class="fil55 fnt2"
+             id="text272-7"
+             style="font-weight:normal;font-size:3.16226px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Time</text>
+          <g
+             id="g187-1"
+             transform="matrix(0.01149701,0,0,0.01424478,-7.6979726,-57.227288)"
+             style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <rect
+             class="fil58"
+             x="90.358704"
+             y="99.996071"
+             width="92.553993"
+             height="3.6132362"
+             id="rect338-3"
+             style="clip-rule:evenodd;fill:#d9dada;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <text
+             x="90.826523"
+             y="102.41259"
+             class="fil54 fnt5"
+             id="text338-9"
+             style="font-style:italic;font-weight:normal;font-size:2.37171px;font-family:Arial;clip-rule:evenodd;fill:#1c938d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Spout 2</text>
+          <rect
+             class="fil58"
+             x="89.658379"
+             y="116.52378"
+             width="92.553993"
+             height="3.6132362"
+             id="rect339-0"
+             style="clip-rule:evenodd;fill:#d9dada;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <text
+             x="90.959984"
+             y="119.00016"
+             class="fil53 fnt5"
+             id="text340-1"
+             style="font-style:italic;font-weight:normal;font-size:2.37171px;font-family:Arial;clip-rule:evenodd;fill:#f08024;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Spout 1</text>
+          <g
+             id="g14-4-3"
+             transform="matrix(0.01400642,0,0,0.01400642,34.179488,28.993147)"
+             style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+            <ellipse
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse5-3"
+               cx="5088.1509"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse6-2"
+               cx="5372.5781"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse8-4"
+               cx="5664.2876"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse9-2"
+               cx="5955.3677"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.7;fill:none;fill-opacity:1;stroke:#ab6857;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse10-9"
+               cx="6213.2983"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse11-5"
+               cx="6497.7256"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse12-5"
+               cx="6768.9233"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse13-7"
+               cx="7046.7358"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse1-2"
+               cx="4826.2002"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse17"
+               cx="7298.1558"
+               cy="5200.5137"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse18"
+               cx="7554.4106"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse20"
+               cx="7805.8306"
+               cy="5190.8438"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.7;fill:none;fill-opacity:1;stroke:#77ac30;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse22"
+               cx="8057.2505"
+               cy="5195.6787"
+               rx="29.727047"
+               ry="24.545435" />
+          </g>
+          <g
+             id="g25-7"
+             transform="matrix(0.01400642,0,0,0.01400642,78.857263,12.190419)"
+             style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+            <ellipse
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse14-9"
+               cx="5505.541"
+               cy="7574.4985"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse15-4"
+               cx="6034.7881"
+               cy="7567.8843"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse16-1"
+               cx="5763.6279"
+               cy="7574.4985"
+               rx="29.727047"
+               ry="24.545435" />
+            <ellipse
+               style="opacity:0.3;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+               id="ellipse19-6"
+               cx="6305.9863"
+               cy="7574.4985"
+               rx="29.727047"
+               ry="24.545435" />
+          </g>
+          <line
+             class="fil8 str5"
+             x1="147.59294"
+             y1="103.65794"
+             x2="147.48036"
+             y2="125.72044"
+             id="line26-5-2"
+             style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <text
+             x="107.29359"
+             y="128.03145"
+             class="fil55 fnt4"
+             id="text31-7-2"
+             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last rewarded poke</text>
+          <text
+             x="142.05298"
+             y="128.31291"
+             class="fil55 fnt4"
+             id="text32-3-8"
+             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last poke</text>
+          <g
+             transform="matrix(0,-0.00897035,0.00897035,0,-48.869325,217.24272)"
+             id="g273-5"
+             style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+            <text
+               x="10538.342"
+               y="15099.222"
+               class="fil55 fnt2"
+               id="text273-6"
+               style="font-weight:normal;font-size:352.525px;font-family:Arial;fill:#2b2a29"><tspan
+                 style="font-size:352.525px;fill:#000000;fill-opacity:1"
+                 id="tspan189-5">Distance</tspan></text>
+          </g>
+          <line
+             class="fil8 str5"
+             x1="117.49081"
+             y1="103.63867"
+             x2="117.37822"
+             y2="125.70119"
+             id="line1-5"
+             style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <ellipse
+             style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             id="ellipse32-2"
+             cx="155.879"
+             cy="107.2559"
+             rx="0.34129095"
+             ry="0.28180179" />
+          <ellipse
+             style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             id="ellipse34-2"
+             cx="155.80823"
+             cy="112.08875"
+             rx="0.34129095"
+             ry="0.28180179" />
+          <ellipse
+             style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             id="ellipse33-8"
+             cx="158.91138"
+             cy="107.31735"
+             rx="0.34129095"
+             ry="0.28180179" />
+          <ellipse
+             style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             id="ellipse35-8"
+             cx="158.9091"
+             cy="112.04279"
+             rx="0.34129095"
+             ry="0.28180179" />
+          <text
+             x="162.12442"
+             y="108.51963"
+             class="fil55 fnt4"
+             id="text35-7-8"
+             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Rewarded poke</text>
+          <text
+             x="162.12442"
+             y="113.13767"
+             class="fil55 fnt4"
+             id="text36-3-1"
+             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Unrewarded poke</text>
+          <line
+             class="fil8 str5"
+             x1="101.71041"
+             y1="94.682411"
+             x2="101.67767"
+             y2="100.48527"
+             id="line23"
+             style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231314;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <text
+             x="95.561508"
+             y="93.984505"
+             class="fil55 fnt4"
+             id="text23"
+             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">First poke</text>
+        </g>
+      </g>
     </g>
     <rect
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#77ac30;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.381122;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="rect1224"
        width="2.1903646"
        height="1.9507939"
-       x="27.194269"
-       y="115.43582" />
+       x="31.220339"
+       y="157.245" />
     <rect
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#ab6857;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.381122;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="rect1227"
        width="2.1903646"
        height="1.9507939"
-       x="27.194269"
-       y="121.03152" />
+       x="31.220339"
+       y="162.8407" />
     <rect
        style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#040404;stroke-width:0.197133;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="rect1223"
        width="39.75156"
        height="11.17813"
-       x="26.379448"
-       y="114.23164" />
+       x="30.405518"
+       y="156.04082" />
     <g
-       transform="matrix(0.03203009,0,0,0.03203009,71.20979,118.37859)"
+       transform="matrix(0.03203009,0,0,0.03203009,75.235859,160.18777)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g50-1-81-6">
       <text
@@ -3162,7 +3467,7 @@
          id="text49-1">Last poke without reward</text>
     </g>
     <g
-       transform="matrix(0.03203009,0,0,0.03203009,71.16166,75.895308)"
+       transform="matrix(0.03203009,0,0,0.03203009,75.187729,117.70448)"
        style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        id="g140-1-0">
       <text
@@ -3185,24 +3490,35 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:Dialog;-inkscape-font-specification:'Dialog, ';letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       x="18.668993"
-       y="56.652592"
+       x="22.695063"
+       y="98.461769"
        id="text1222"><tspan
          sodipodi:role="line"
          id="tspan1222"
-         x="18.668993"
-         y="56.652592"
-         style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583">A</tspan></text>
+         x="22.695063"
+         y="98.461769"
+         style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583">B</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:Dialog;-inkscape-font-specification:'Dialog, ';letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       x="78.015083"
-       y="56.652596"
+       x="82.041153"
+       y="98.461769"
        id="text72"><tspan
          sodipodi:role="line"
          id="tspan72"
-         x="78.015083"
-         y="56.652596"
-         style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583">B</tspan></text>
+         x="82.041153"
+         y="98.461769"
+         style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:Dialog;-inkscape-font-specification:'Dialog, ';letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;color-interpolation:auto;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       x="52.116333"
+       y="55.723499"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="52.116333"
+         y="55.723499"
+         style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583">A</tspan></text>
   </g>
 </svg>
