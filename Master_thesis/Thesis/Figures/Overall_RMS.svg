@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="Overall_RMS.svg"
    inkscape:export-filename="Overall_RMS.png"
    inkscape:export-xdpi="1000"
@@ -26,18 +26,38 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.4164045"
-     inkscape:cx="408.87194"
-     inkscape:cy="399.97443"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1221"
+     inkscape:zoom="1.52"
+     inkscape:cx="359.21053"
+     inkscape:cy="694.73684"
+     inkscape:window-width="1440"
+     inkscape:window-height="771"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path7" />
+    </marker>
     <rect
        x="189.04257"
        y="367.66"
@@ -3134,20 +3154,18 @@
          transform="matrix(7.8840847,0,0,7.8840847,-669.39731,-1406.897)">
         <line
            class="fil8 str5"
-           x1="77.513519"
-           y1="285.25134"
-           x2="43.067554"
-           y2="285.25134"
+           x1="114.5236"
+           y1="185.77844"
+           x2="77.632805"
+           y2="185.77844"
            id="line274-9"
-           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.208158;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-           transform="matrix(1.0736646,0,0,0.80713699,31.206834,-42.487159)" />
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.193533;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
         <text
-           x="57.455566"
-           y="284.61066"
+           x="89.78788"
+           y="185.25934"
            class="fil55 fnt4"
            id="text281-6"
-           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-           transform="matrix(0.80842408,0,0,0.80842408,43.339417,-42.855459)">Trial duration</text>
+           style="font-weight:normal;font-size:2.11666px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0113232;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Trial duration</text>
         <g
            id="g2-2"
            transform="matrix(0.80842409,0,0,0.80842409,-4.660142,108.05379)"
@@ -3356,7 +3374,7 @@
              y="128.31291"
              class="fil55 fnt4"
              id="text32-3-8"
-             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last poke</text>
+             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last unrewarded poke</text>
           <g
              transform="matrix(0,-0.00897035,0.00897035,0,-48.869325,217.24272)"
              id="g273-5"
@@ -3373,51 +3391,55 @@
           <line
              class="fil8 str5"
              x1="117.49081"
-             y1="103.63867"
+             y1="103.02906"
              x2="117.37822"
-             y2="125.70119"
+             y2="125.09158"
              id="line1-5"
              style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-          <ellipse
-             style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-             id="ellipse32-2"
-             cx="155.879"
-             cy="107.2559"
-             rx="0.34129095"
-             ry="0.28180179" />
-          <ellipse
-             style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-             id="ellipse34-2"
-             cx="155.80823"
-             cy="112.08875"
-             rx="0.34129095"
-             ry="0.28180179" />
-          <ellipse
-             style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-             id="ellipse33-8"
-             cx="158.91138"
-             cy="107.31735"
-             rx="0.34129095"
-             ry="0.28180179" />
-          <ellipse
-             style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-             id="ellipse35-8"
-             cx="158.9091"
-             cy="112.04279"
-             rx="0.34129095"
-             ry="0.28180179" />
-          <text
-             x="162.12442"
-             y="108.51963"
-             class="fil55 fnt4"
-             id="text35-7-8"
-             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Rewarded poke</text>
-          <text
-             x="162.12442"
-             y="113.13767"
-             class="fil55 fnt4"
-             id="text36-3-1"
-             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Unrewarded poke</text>
+          <g
+             id="g3"
+             transform="translate(-1.0525586,-0.19319519)">
+            <ellipse
+               style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+               id="ellipse32-2"
+               cx="155.879"
+               cy="107.2559"
+               rx="0.34129095"
+               ry="0.28180179" />
+            <ellipse
+               style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+               id="ellipse34-2"
+               cx="155.80823"
+               cy="112.08875"
+               rx="0.34129095"
+               ry="0.28180179" />
+            <ellipse
+               style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+               id="ellipse33-8"
+               cx="158.91138"
+               cy="107.31735"
+               rx="0.34129095"
+               ry="0.28180179" />
+            <ellipse
+               style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+               id="ellipse35-8"
+               cx="158.9091"
+               cy="112.04279"
+               rx="0.34129095"
+               ry="0.28180179" />
+            <text
+               x="162.12442"
+               y="108.51963"
+               class="fil55 fnt4"
+               id="text35-7-8"
+               style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Rewarded poke</text>
+            <text
+               x="162.12442"
+               y="113.13767"
+               class="fil55 fnt4"
+               id="text36-3-1"
+               style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Unrewarded poke</text>
+          </g>
           <line
              class="fil8 str5"
              x1="101.71041"
@@ -3428,65 +3450,130 @@
              style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231314;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
           <text
              x="95.561508"
-             y="93.984505"
+             y="93.374893"
              class="fil55 fnt4"
              id="text23"
              style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">First poke</text>
+          <line
+             class="fil8 str5"
+             x1="121.24317"
+             y1="103.03867"
+             x2="121.21043"
+             y2="108.84153"
+             id="line1"
+             style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231314;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <text
+             x="118.05227"
+             y="111.42339"
+             class="fil55 fnt4"
+             id="text2"
+             style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+               sodipodi:role="line"
+               id="tspan2"
+               x="118.05227"
+               y="111.42339">First unrewarded poke</tspan><tspan
+               sodipodi:role="line"
+               id="tspan3"
+               x="118.05227"
+               y="114.69622">after lastrewarded poke</tspan></text>
+          <line
+             class="fil8 str5"
+             x1="147.42058"
+             y1="96.145042"
+             x2="147.37575"
+             y2="99.953529"
+             id="line3"
+             style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.219287;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+          <line
+             class="fil8 str5"
+             x1="117.86662"
+             y1="121.81487"
+             x2="123.66935"
+             y2="121.86513"
+             id="line7"
+             style="clip-rule:evenodd;fill:#ff0000;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.231558;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ArrowWide);image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill-opacity:1" />
+          <line
+             class="fil8 str5"
+             x1="147.13457"
+             y1="121.82806"
+             x2="141.33229"
+             y2="121.7403"
+             id="line8"
+             style="clip-rule:evenodd;fill:#ff0000;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.231558;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ArrowWide);image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill-opacity:1" />
+          <text
+             x="132.62718"
+             y="122.32621"
+             class="fil55 fnt4"
+             id="text8"
+             style="font-weight:normal;font-size:2.03205px;font-family:Arial;clip-rule:evenodd;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+               sodipodi:role="line"
+               id="tspan8"
+               x="132.62718"
+               y="122.32621"
+               style="font-size:2.03205px;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1">Shift towards</tspan><tspan
+               sodipodi:role="line"
+               id="tspan9"
+               x="132.62718"
+               y="124.86627"
+               style="font-size:2.03205px;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1">exploration</tspan></text>
         </g>
       </g>
     </g>
-    <rect
-       style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#77ac30;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.381122;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       id="rect1224"
-       width="2.1903646"
-       height="1.9507939"
-       x="31.220339"
-       y="157.245" />
-    <rect
-       style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#ab6857;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.381122;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       id="rect1227"
-       width="2.1903646"
-       height="1.9507939"
-       x="31.220339"
-       y="162.8407" />
-    <rect
-       style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#040404;stroke-width:0.197133;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       id="rect1223"
-       width="39.75156"
-       height="11.17813"
-       x="30.405518"
-       y="156.04082" />
     <g
-       transform="matrix(0.03203009,0,0,0.03203009,75.235859,160.18777)"
-       style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       id="g50-1-81-6">
-      <text
-         x="-1282.8871"
-         xml:space="preserve"
-         y="-38.553013"
-         style="font-size:68.3846px;stroke:none;stroke-width:0.823189"
-         id="text49-1">Last poke without reward</text>
-    </g>
-    <g
-       transform="matrix(0.03203009,0,0,0.03203009,75.187729,117.70448)"
-       style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       id="g140-1-0">
-      <text
-         x="-1276.4761"
-         xml:space="preserve"
-         y="1421.0309"
-         style="font-size:68.3846px;stroke:none;stroke-width:0.823189"
-         id="text139-8"><tspan
-           sodipodi:role="line"
-           id="tspan140"
+       id="g1">
+      <rect
+         style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#77ac30;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.381122;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="rect1224"
+         width="2.1903646"
+         height="1.9507939"
+         x="31.220339"
+         y="157.245" />
+      <rect
+         style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#ab6857;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.381122;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="rect1227"
+         width="2.1903646"
+         height="1.9507939"
+         x="31.220339"
+         y="162.8407" />
+      <rect
+         style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#040404;stroke-width:0.197133;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="rect1223"
+         width="39.75156"
+         height="11.17813"
+         x="30.405518"
+         y="156.04082" />
+      <g
+         transform="matrix(0.03203009,0,0,0.03203009,75.235859,160.18777)"
+         style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g50-1-81-6">
+        <text
+           x="-1282.8871"
+           xml:space="preserve"
+           y="-38.553013"
+           style="font-size:68.3846px;stroke:none;stroke-width:0.823189"
+           id="text49-1">Last poke without reward</text>
+      </g>
+      <g
+         transform="matrix(0.03203009,0,0,0.03203009,75.187729,117.70448)"
+         style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g140-1-0">
+        <text
            x="-1276.4761"
+           xml:space="preserve"
            y="1421.0309"
-           style="font-size:68.3846px">Suceeding unrewarded poke</tspan><tspan
-           sodipodi:role="line"
-           id="tspan141"
-           x="-1276.4761"
-           y="1506.5116"
-           style="font-size:68.3846px">to last rewarded poke</tspan></text>
+           style="font-size:68.3846px;stroke:none;stroke-width:0.823189"
+           id="text139-8"><tspan
+             sodipodi:role="line"
+             id="tspan140"
+             x="-1276.4761"
+             y="1421.0309"
+             style="font-size:68.3846px">Suceeding unrewarded poke</tspan><tspan
+             sodipodi:role="line"
+             id="tspan141"
+             x="-1276.4761"
+             y="1506.5116"
+             style="font-size:68.3846px">to last rewarded poke</tspan></text>
+      </g>
     </g>
     <text
        xml:space="preserve"

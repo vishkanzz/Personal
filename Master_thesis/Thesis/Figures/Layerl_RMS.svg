@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="Layerl_RMS.svg"
    inkscape:export-filename="Layerl_RMS.png"
    inkscape:export-xdpi="1000"
@@ -27,13 +27,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.70710678"
-     inkscape:cx="191.62594"
+     inkscape:cx="190.91883"
      inkscape:cy="526.79455"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="2552"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffffff" />
   <defs
@@ -13741,5 +13741,62 @@
          x="108.07659"
          y="33.507805"
          style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583">B</tspan></text>
+    <g
+       id="g2-4"
+       transform="translate(11.877844,51.598005)">
+      <rect
+         style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#77ac30;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.381122;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="rect1224"
+         width="2.1903646"
+         height="1.9507939"
+         x="31.220339"
+         y="157.245" />
+      <rect
+         style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#ab6857;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.381122;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="rect1227"
+         width="2.1903646"
+         height="1.9507939"
+         x="31.220339"
+         y="162.8407" />
+      <rect
+         style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#040404;stroke-width:0.197133;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="rect1223"
+         width="39.75156"
+         height="11.17813"
+         x="30.405518"
+         y="156.04082" />
+      <g
+         transform="matrix(0.03203009,0,0,0.03203009,75.235859,160.18777)"
+         style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g50-1-81-6">
+        <text
+           x="-1282.8871"
+           xml:space="preserve"
+           y="-38.553013"
+           style="font-size:68.3846px;stroke:none;stroke-width:0.823189"
+           id="text49-1">Last poke without reward</text>
+      </g>
+      <g
+         transform="matrix(0.03203009,0,0,0.03203009,75.187729,117.70448)"
+         style="font-style:normal;font-weight:bold;font-size:44px;font-family:Dialog;clip-rule:evenodd;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g140-1-0">
+        <text
+           x="-1276.4761"
+           xml:space="preserve"
+           y="1421.0309"
+           style="font-size:68.3846px;stroke:none;stroke-width:0.823189"
+           id="text139-8"><tspan
+             sodipodi:role="line"
+             id="tspan140"
+             x="-1276.4761"
+             y="1421.0309"
+             style="font-size:68.3846px">Suceeding unrewarded poke</tspan><tspan
+             sodipodi:role="line"
+             id="tspan141"
+             x="-1276.4761"
+             y="1506.5116"
+             style="font-size:68.3846px">to last rewarded poke</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>
