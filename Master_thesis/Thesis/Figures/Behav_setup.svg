@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.4775606"
-     inkscape:cx="439.34344"
-     inkscape:cy="698.06567"
+     inkscape:zoom="1.4637461"
+     inkscape:cx="315.28692"
+     inkscape:cy="931.514"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="-8"
@@ -1414,32 +1414,7 @@
       <g
          id="g187"
          transform="matrix(0.01149701,0,0,0.01424478,-7.6979726,-57.227288)"
-         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
-        <line
-           class="fil8 str5"
-           x1="15276.832"
-           y1="10828.894"
-           x2="12280.752"
-           y2="10828.894"
-           id="line274"
-           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-        <line
-           class="fil8 str5"
-           x1="12288.541"
-           y1="10955.922"
-           x2="12288.541"
-           y2="10822.464"
-           id="line275"
-           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-        <line
-           class="fil8 str5"
-           x1="15269.548"
-           y1="10962.331"
-           x2="15269.548"
-           y2="10828.873"
-           id="line276"
-           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-      </g>
+         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
       <line
          class="fil8 str6"
          x1="104.44019"
@@ -1477,12 +1452,42 @@
            id="line281"
            style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
       </g>
-      <text
-         x="139.2814"
-         y="95.710045"
-         class="fil55 fnt4"
-         id="text281"
-         style="font-weight:normal;font-size:3.95284px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Trial duration</text>
+      <g
+         id="g24">
+        <line
+           class="fil8 str5"
+           x1="15276.832"
+           y1="10828.894"
+           x2="12280.752"
+           y2="10828.894"
+           id="line274"
+           style="clip-rule:evenodd;fill-rule:nonzero;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill:none;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           transform="matrix(0.01149701,0,0,0.01424478,-7.697973,-57.227289)" />
+        <line
+           class="fil8 str5"
+           x1="12288.541"
+           y1="10955.922"
+           x2="12288.541"
+           y2="10822.464"
+           id="line275"
+           style="clip-rule:evenodd;fill-rule:nonzero;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill:none;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           transform="matrix(0.01149701,0,0,0.01424478,-7.697973,-57.227289)" />
+        <line
+           class="fil8 str5"
+           x1="15269.548"
+           y1="10962.331"
+           x2="15269.548"
+           y2="10828.873"
+           id="line276"
+           style="clip-rule:evenodd;fill-rule:nonzero;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill:none;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           transform="matrix(0.01149701,0,0,0.01424478,-7.697973,-57.227289)" />
+        <text
+           x="139.2814"
+           y="95.710045"
+           class="fil55 fnt4"
+           id="text281"
+           style="font-weight:normal;font-size:3.95284px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Trial duration</text>
+      </g>
       <g
          id="g79"
          style="clip-rule:evenodd;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
@@ -1774,6 +1779,9 @@
          style="font-weight:normal;font-size:3.2062px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.010328;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- <tspan
    style="font-size:2.91472px;stroke-width:0.010328"
    id="tspan4">Unrewarded poke</tspan></text>
+      <g
+         id="g24-6"
+         transform="translate(-92.690644,231.31929)" />
     </g>
     <g
        id="g4"
@@ -4478,289 +4486,410 @@
        x="1.8581855"
        y="14.865484" />
     <g
-       id="g53"
-       transform="matrix(0.80842409,0,0,0.80842409,-2.4375483,175.92838)"
-       inkscape:export-filename="behav_paradigm.tiff"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <line
-         class="fil8 str4"
-         x1="84.948387"
-         y1="82.65683"
-         x2="93.991501"
-         y2="82.65683"
-         id="line2"
-         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-      <line
-         class="fil8 str4"
-         x1="84.951347"
-         y1="82.657684"
-         x2="84.951347"
-         y2="73.393265"
-         id="line3"
-         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-      <text
-         x="84.9468"
-         y="87.476105"
-         class="fil55 fnt2"
-         id="text3"
-         style="font-weight:normal;font-size:3.16226px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Time</text>
+       id="g27">
       <g
-         id="g5"
-         transform="matrix(0.01149701,0,0,0.01424478,-7.6979726,-57.227288)"
-         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-      <rect
-         class="fil58"
-         x="86.551994"
-         y="61.083019"
-         width="92.553993"
-         height="3.6132362"
-         id="rect5"
-         style="clip-rule:evenodd;fill:#d9dada;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-      <text
-         x="87.019814"
-         y="63.499538"
-         class="fil54 fnt5"
-         id="text5"
-         style="font-style:italic;font-weight:normal;font-size:2.37171px;font-family:Arial;clip-rule:evenodd;fill:#1c938d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Spout 2</text>
-      <rect
-         class="fil58"
-         x="85.851669"
-         y="77.610733"
-         width="92.553993"
-         height="3.6132362"
-         id="rect6"
-         style="clip-rule:evenodd;fill:#d9dada;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-      <text
-         x="87.153275"
-         y="80.087112"
-         class="fil53 fnt5"
-         id="text6"
-         style="font-style:italic;font-weight:normal;font-size:2.37171px;font-family:Arial;clip-rule:evenodd;fill:#f08024;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Spout 1</text>
-      <g
-         id="g39"
-         transform="matrix(0.01400642,0,0,0.01400642,30.372776,-9.9199062)"
-         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
-        <ellipse
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse23"
-           cx="5088.1509"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse24"
-           cx="5372.5781"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse25"
-           cx="5664.2876"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse26"
-           cx="5955.3677"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse27"
-           cx="6213.2983"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse28"
-           cx="6497.7256"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse29"
-           cx="6768.9233"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse30"
-           cx="7046.7358"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse31"
-           cx="4826.2002"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse36"
-           cx="7298.1558"
-           cy="5200.5137"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse37"
-           cx="7554.4106"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse38"
-           cx="7805.8306"
-           cy="5190.8438"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse39"
-           cx="8057.2505"
-           cy="5195.6787"
-           rx="29.727047"
-           ry="24.545435" />
+         id="g26"
+         transform="matrix(1.066281,0,0,0.80733448,-65.728937,144.25532)">
+        <line
+           class="fil8 str5"
+           x1="15276.832"
+           y1="10828.894"
+           x2="12280.752"
+           y2="10828.894"
+           id="line274-8"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+           transform="matrix(0.01149701,0,0,0.01424478,-7.697973,-57.227289)" />
+        <line
+           class="fil8 str5"
+           x1="12288.541"
+           y1="10955.922"
+           x2="12288.541"
+           y2="10822.464"
+           id="line275-8"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+           transform="matrix(0.01149701,0,0,0.01424478,-7.697973,-57.227289)" />
+        <line
+           class="fil8 str5"
+           x1="15269.548"
+           y1="10962.331"
+           x2="15269.548"
+           y2="10828.873"
+           id="line276-6"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:16.2657;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+           transform="matrix(0.01149701,0,0,0.01424478,-7.697973,-57.227289)" />
       </g>
-      <g
-         id="g43"
-         transform="matrix(0.01400642,0,0,0.01400642,75.050551,-26.722634)"
-         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
-        <ellipse
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse40"
-           cx="5505.541"
-           cy="7574.4985"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse41"
-           cx="6034.7881"
-           cy="7567.8843"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse42"
-           cx="5763.6279"
-           cy="7574.4985"
-           rx="29.727047"
-           ry="24.545435" />
-        <ellipse
-           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
-           id="ellipse43"
-           cx="6305.9863"
-           cy="7574.4985"
-           rx="29.727047"
-           ry="24.545435" />
-      </g>
-      <line
-         class="fil8 str5"
-         x1="143.78624"
-         y1="64.744896"
-         x2="143.67366"
-         y2="86.807396"
-         id="line43"
-         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
       <text
-         x="103.48687"
-         y="89.118401"
+         x="148.74496"
+         y="96.016663"
          class="fil55 fnt4"
-         id="text44"
-         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last rewarded poke</text>
-      <text
-         x="138.24628"
-         y="89.399864"
-         class="fil55 fnt4"
-         id="text45"
-         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last poke</text>
+         id="text281-2"
+         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         transform="matrix(0.80842408,0,0,0.80842408,-31.593933,144.14863)">Residence time</text>
       <g
-         transform="matrix(0,-0.00897035,0.00897035,0,-52.676037,178.32967)"
-         id="g46"
-         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+         id="g53"
+         transform="matrix(0.80842409,0,0,0.80842409,-2.4375483,175.92838)"
+         inkscape:export-filename="behav_paradigm.tiff"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
+        <line
+           class="fil8 str4"
+           x1="84.948387"
+           y1="82.65683"
+           x2="93.991501"
+           y2="82.65683"
+           id="line2"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <line
+           class="fil8 str4"
+           x1="84.951347"
+           y1="82.657684"
+           x2="84.951347"
+           y2="73.393265"
+           id="line3"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
         <text
-           x="10538.342"
-           y="15099.222"
+           x="84.9468"
+           y="87.476105"
            class="fil55 fnt2"
-           id="text46"
-           style="font-weight:normal;font-size:352.525px;font-family:Arial;fill:#2b2a29"><tspan
-             style="font-size:352.525px;fill:#000000;fill-opacity:1"
-             id="tspan45">Distance</tspan></text>
+           id="text3"
+           style="font-weight:normal;font-size:3.16226px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Time</text>
+        <g
+           id="g5"
+           transform="matrix(0.01149701,0,0,0.01424478,-7.6979726,-57.227288)"
+           style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <rect
+           class="fil58"
+           x="86.551994"
+           y="61.083019"
+           width="92.553993"
+           height="3.6132362"
+           id="rect5"
+           style="clip-rule:evenodd;fill:#d9dada;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <text
+           x="87.019814"
+           y="63.499538"
+           class="fil54 fnt5"
+           id="text5"
+           style="font-style:italic;font-weight:normal;font-size:2.37171px;font-family:Arial;clip-rule:evenodd;fill:#1c938d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Spout 2</text>
+        <rect
+           class="fil58"
+           x="85.851669"
+           y="77.610733"
+           width="92.553993"
+           height="3.6132362"
+           id="rect6"
+           style="clip-rule:evenodd;fill:#d9dada;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <text
+           x="87.153275"
+           y="80.087112"
+           class="fil53 fnt5"
+           id="text6"
+           style="font-style:italic;font-weight:normal;font-size:2.37171px;font-family:Arial;clip-rule:evenodd;fill:#f08024;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Spout 1</text>
+        <g
+           id="g39"
+           transform="matrix(0.01400642,0,0,0.01400642,30.372776,-9.9199062)"
+           style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+          <ellipse
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse23"
+             cx="5088.1509"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse24"
+             cx="5372.5781"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse25"
+             cx="5664.2876"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse26"
+             cx="5955.3677"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse27"
+             cx="6213.2983"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse28"
+             cx="6497.7256"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse29"
+             cx="6768.9233"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse30"
+             cx="7046.7358"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse31"
+             cx="4826.2002"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse36"
+             cx="7298.1558"
+             cy="5200.5137"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse37"
+             cx="7554.4106"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse38"
+             cx="7805.8306"
+             cy="5190.8438"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse39"
+             cx="8057.2505"
+             cy="5195.6787"
+             rx="29.727047"
+             ry="24.545435" />
+        </g>
+        <g
+           id="g43"
+           transform="matrix(0.01400642,0,0,0.01400642,83.559909,-26.722634)"
+           style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+          <ellipse
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse40"
+             cx="5505.541"
+             cy="7574.4985"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse41"
+             cx="6034.7881"
+             cy="7567.8843"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse42"
+             cx="5763.6279"
+             cy="7574.4985"
+             rx="29.727047"
+             ry="24.545435" />
+          <ellipse
+             style="opacity:0.3;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+             id="ellipse43"
+             cx="6305.9863"
+             cy="7574.4985"
+             rx="29.727047"
+             ry="24.545435" />
+        </g>
+        <line
+           class="fil8 str5"
+           x1="143.78624"
+           y1="64.744896"
+           x2="143.67366"
+           y2="86.807396"
+           id="line43"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <text
+           x="103.48687"
+           y="89.118401"
+           class="fil55 fnt4"
+           id="text44"
+           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last rewarded poke</text>
+        <text
+           x="138.24628"
+           y="89.399864"
+           class="fil55 fnt4"
+           id="text45"
+           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last poke</text>
+        <g
+           transform="matrix(0,-0.00897035,0.00897035,0,-52.676037,178.32967)"
+           id="g46"
+           style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+          <text
+             x="10538.342"
+             y="15099.222"
+             class="fil55 fnt2"
+             id="text46"
+             style="font-weight:normal;font-size:352.525px;font-family:Arial;fill:#2b2a29"><tspan
+               style="font-size:352.525px;fill:#000000;fill-opacity:1"
+               id="tspan45">Distance</tspan></text>
+        </g>
+        <line
+           class="fil8 str5"
+           x1="113.6841"
+           y1="64.725624"
+           x2="113.57151"
+           y2="86.788139"
+           id="line46"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <line
+           class="fil8 str5"
+           x1="95.996971"
+           y1="64.674911"
+           x2="95.955688"
+           y2="77.576225"
+           id="line46-1"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#b20000;stroke-width:0.106849;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0.427397, 0.106849;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <ellipse
+           style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+           id="ellipse46"
+           cx="170.28685"
+           cy="68.249443"
+           rx="0.34129095"
+           ry="0.28180179" />
+        <ellipse
+           style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+           id="ellipse47"
+           cx="170.21608"
+           cy="73.082298"
+           rx="0.34129095"
+           ry="0.28180179" />
+        <ellipse
+           style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+           id="ellipse48"
+           cx="173.31923"
+           cy="68.310898"
+           rx="0.34129095"
+           ry="0.28180179" />
+        <ellipse
+           style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+           id="ellipse49"
+           cx="173.31696"
+           cy="73.036339"
+           rx="0.34129095"
+           ry="0.28180179" />
+        <text
+           x="176.53227"
+           y="69.513176"
+           class="fil55 fnt4"
+           id="text49"
+           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Rewarded poke</text>
+        <text
+           x="176.53227"
+           y="74.131218"
+           class="fil55 fnt4"
+           id="text50"
+           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Unrewarded poke</text>
+        <line
+           class="fil8 str5"
+           x1="97.903702"
+           y1="55.76936"
+           x2="97.870964"
+           y2="61.572216"
+           id="line50"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231314;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <text
+           x="91.754799"
+           y="55.071453"
+           class="fil55 fnt4"
+           id="text51"
+           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">First poke</text>
+        <text
+           x="105.54951"
+           y="70.181732"
+           class="fil55 fnt4"
+           id="text7"
+           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#b20000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+             sodipodi:role="line"
+             id="tspan7"
+             x="105.54951"
+             y="70.181732"
+             style="text-align:center;text-anchor:middle;fill:#b20000;fill-opacity:1;stroke:none">Exploitation</tspan><tspan
+             sodipodi:role="line"
+             id="tspan16"
+             x="105.54951"
+             y="73.454559"
+             style="text-align:center;text-anchor:middle;fill:#b20000;fill-opacity:1;stroke:none">phase</tspan></text>
+        <text
+           x="128.47456"
+           y="69.786476"
+           class="fil55 fnt4"
+           id="text18"
+           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#b20000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+             sodipodi:role="line"
+             id="tspan18"
+             x="128.47456"
+             y="69.786476"
+             style="text-align:center;text-anchor:middle;fill:#b20000;fill-opacity:1;stroke:none">Shift towards</tspan><tspan
+             sodipodi:role="line"
+             x="128.47456"
+             y="73.059303"
+             style="text-align:center;text-anchor:middle;fill:#b20000;fill-opacity:1;stroke:none"
+             id="tspan19">exploration</tspan></text>
+        <text
+           x="151.24153"
+           y="70.102684"
+           class="fil55 fnt4"
+           id="text21"
+           style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#b20000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+             sodipodi:role="line"
+             x="151.24153"
+             y="70.102684"
+             style="text-align:center;text-anchor:middle;fill:#b20000;fill-opacity:1;stroke:none"
+             id="tspan21">Start of</tspan><tspan
+             sodipodi:role="line"
+             x="151.24153"
+             y="73.375511"
+             style="text-align:center;text-anchor:middle;fill:#b20000;fill-opacity:1;stroke:none"
+             id="tspan22">exploration</tspan></text>
+        <line
+           class="fil8 str5"
+           x1="114.97927"
+           y1="64.674911"
+           x2="114.93801"
+           y2="77.576225"
+           id="line22"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#b20000;stroke-width:0.106849;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0.427397, 0.106849;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <line
+           class="fil8 str5"
+           x1="144.4348"
+           y1="64.674911"
+           x2="144.39354"
+           y2="77.576225"
+           id="line23"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#b20000;stroke-width:0.106849;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0.427397, 0.106849;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <line
+           class="fil8 str5"
+           x1="158.1808"
+           y1="64.674911"
+           x2="158.13954"
+           y2="77.576225"
+           id="line24"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#b20000;stroke-width:0.106849;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0.427397, 0.106849;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
       </g>
-      <line
-         class="fil8 str5"
-         x1="113.6841"
-         y1="64.725624"
-         x2="113.57151"
-         y2="86.788139"
-         id="line46"
-         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-      <ellipse
-         style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-         id="ellipse46"
-         cx="152.0723"
-         cy="68.34285"
-         rx="0.34129095"
-         ry="0.28180179" />
-      <ellipse
-         style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-         id="ellipse47"
-         cx="152.00153"
-         cy="73.175705"
-         rx="0.34129095"
-         ry="0.28180179" />
-      <ellipse
-         style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-         id="ellipse48"
-         cx="155.10468"
-         cy="68.404305"
-         rx="0.34129095"
-         ry="0.28180179" />
-      <ellipse
-         style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-         id="ellipse49"
-         cx="155.1024"
-         cy="73.129745"
-         rx="0.34129095"
-         ry="0.28180179" />
-      <text
-         x="158.31772"
-         y="69.606583"
-         class="fil55 fnt4"
-         id="text49"
-         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Rewarded poke</text>
-      <text
-         x="158.31772"
-         y="74.224625"
-         class="fil55 fnt4"
-         id="text50"
-         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Unrewarded poke</text>
-      <line
-         class="fil8 str5"
-         x1="97.903702"
-         y1="55.76936"
-         x2="97.870964"
-         y2="61.572216"
-         id="line50"
-         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231314;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
-      <text
-         x="91.754799"
-         y="55.071453"
-         class="fil55 fnt4"
-         id="text51"
-         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">First poke</text>
     </g>
   </g>
 </svg>
