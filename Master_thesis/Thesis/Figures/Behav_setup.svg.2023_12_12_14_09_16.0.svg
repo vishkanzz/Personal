@@ -7,8 +7,8 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="Behav_setup.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="Behav_setup.svg.2023_12_12_14_09_16.0.svg"
    inkscape:export-filename="Behav_setup.png"
    inkscape:export-xdpi="1000"
    inkscape:export-ydpi="1000"
@@ -27,14 +27,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4.8328088"
-     inkscape:cx="336.65723"
-     inkscape:cy="746.2534"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="2552"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.57962374"
+     inkscape:cx="286.39269"
+     inkscape:cy="556.39543"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g1"
      inkscape:export-bgcolor="#ffffffff" />
   <defs
@@ -1516,6 +1516,40 @@
          y="284.61066"
          class="fil55 fnt4"
          id="text281-6"
+         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Trial duration</text>
+      <g
+         id="g23-3"
+         transform="matrix(1.3280958,0,0,0.9984079,-15.913635,67.762928)">
+        <line
+           class="fil8 str5"
+           x1="77.513519"
+           y1="285.25134"
+           x2="43.067554"
+           y2="285.25134"
+           id="line274-9-8"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.208158;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <line
+           class="fil8 str5"
+           x1="43.157104"
+           y1="287.06082"
+           x2="43.157104"
+           y2="285.15973"
+           id="line275-1-4"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.208158;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <line
+           class="fil8 str5"
+           x1="77.429771"
+           y1="287.15213"
+           x2="77.429771"
+           y2="285.25104"
+           id="line276-6-8"
+           style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.208158;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      </g>
+      <text
+         x="56.549625"
+         y="351.91803"
+         class="fil55 fnt4"
+         id="text281-6-0"
          style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Trial duration</text>
       <g
          id="g79"
@@ -4808,6 +4842,280 @@
            style="fill:none;fill-rule:evenodd;stroke:#77ac30;stroke-width:6.32181;stroke-dasharray:none"
            id="path4-54" />
       </g>
+      <line
+         class="fil8 str4"
+         x1="87.792084"
+         y1="189.86681"
+         x2="96.835197"
+         y2="189.86681"
+         id="line271-1-2"
+         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <line
+         class="fil8 str4"
+         x1="87.795044"
+         y1="189.86766"
+         x2="87.795044"
+         y2="180.60324"
+         id="line272-1-4"
+         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <text
+         x="87.790497"
+         y="194.68608"
+         class="fil55 fnt2"
+         id="text272-7-8"
+         style="font-weight:normal;font-size:3.16226px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Time</text>
+      <rect
+         class="fil58"
+         x="89.395691"
+         y="168.293"
+         width="92.553993"
+         height="3.6132362"
+         id="rect338-3-3"
+         style="clip-rule:evenodd;fill:#d9dada;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <text
+         x="89.86351"
+         y="170.70952"
+         class="fil54 fnt5"
+         id="text338-9-9"
+         style="font-style:italic;font-weight:normal;font-size:2.37171px;font-family:Arial;clip-rule:evenodd;fill:#1c938d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Spout 2</text>
+      <rect
+         class="fil58"
+         x="88.695366"
+         y="184.82071"
+         width="92.553993"
+         height="3.6132362"
+         id="rect339-0-0"
+         style="clip-rule:evenodd;fill:#d9dada;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <text
+         x="89.996971"
+         y="187.29709"
+         class="fil53 fnt5"
+         id="text340-1-5"
+         style="font-style:italic;font-weight:normal;font-size:2.37171px;font-family:Arial;clip-rule:evenodd;fill:#f08024;fill-rule:evenodd;stroke-width:0.0140065;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Spout 1</text>
+      <g
+         id="g14-4-3-2"
+         transform="matrix(0.01400642,0,0,0.01400642,33.216478,97.290082)"
+         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse5-3-2"
+           cx="5088.1509"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse6-2-7"
+           cx="5372.5781"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse8-4-3"
+           cx="5664.2876"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse9-2-7"
+           cx="5955.3677"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#a0c5c3;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse10-9-9"
+           cx="6213.2983"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse11-5-0"
+           cx="6497.7256"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse12-5-2"
+           cx="6768.9233"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse13-7-3"
+           cx="7046.7358"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse1-2-9"
+           cx="4826.2002"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse17-9"
+           cx="7298.1558"
+           cy="5200.5137"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse18-7"
+           cx="7554.4106"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#1c938d;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse20-0"
+           cx="7805.8306"
+           cy="5190.8438"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#a0c5c3;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse22-3"
+           cx="8057.2505"
+           cy="5195.6787"
+           rx="29.727047"
+           ry="24.545435" />
+      </g>
+      <g
+         id="g25-7-9"
+         transform="matrix(0.01400642,0,0,0.01400642,77.894253,80.48735)"
+         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse14-9-8"
+           cx="5505.541"
+           cy="7574.4985"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse15-4-6"
+           cx="6034.7881"
+           cy="7567.8843"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse16-1-5"
+           cx="5763.6279"
+           cy="7574.4985"
+           rx="29.727047"
+           ry="24.545435" />
+        <ellipse
+           style="opacity:0.3;fill:none;fill-opacity:1;stroke:#f08024;stroke-width:138.09;stroke-dasharray:690.486, 690.486;stroke-opacity:1"
+           id="ellipse19-6-7"
+           cx="6305.9863"
+           cy="7574.4985"
+           rx="29.727047"
+           ry="24.545435" />
+      </g>
+      <line
+         class="fil8 str5"
+         x1="146.62993"
+         y1="171.95486"
+         x2="146.51735"
+         y2="194.01736"
+         id="line26-5-2-6"
+         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <text
+         x="106.33057"
+         y="196.32837"
+         class="fil55 fnt4"
+         id="text31-7-2-2"
+         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last rewarded poke</text>
+      <text
+         x="141.08997"
+         y="196.60983"
+         class="fil55 fnt4"
+         id="text32-3-8-7"
+         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">Last poke</text>
+      <g
+         transform="matrix(0,-0.00897035,0.00897035,0,-49.832335,285.53965)"
+         id="g273-5-0"
+         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+        <text
+           x="10538.342"
+           y="15099.222"
+           class="fil55 fnt2"
+           id="text273-6-3"
+           style="font-weight:normal;font-size:352.525px;font-family:Arial;fill:#2b2a29"><tspan
+             style="font-size:352.525px;fill:#000000;fill-opacity:1"
+             id="tspan189-5-9">Distance</tspan></text>
+      </g>
+      <line
+         class="fil8 str5"
+         x1="116.52779"
+         y1="171.93559"
+         x2="116.41521"
+         y2="193.99811"
+         id="line1-5-9"
+         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231464;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <ellipse
+         style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="ellipse32-2-9"
+         cx="154.91599"
+         cy="175.55283"
+         rx="0.34129095"
+         ry="0.28180179" />
+      <ellipse
+         style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1c938d;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="ellipse34-2-1"
+         cx="154.84521"
+         cy="180.38568"
+         rx="0.34129095"
+         ry="0.28180179" />
+      <ellipse
+         style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="ellipse33-8-7"
+         cx="157.94836"
+         cy="175.61427"
+         rx="0.34129095"
+         ry="0.28180179" />
+      <ellipse
+         style="clip-rule:evenodd;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f08024;stroke-width:1.58538;stroke-dasharray:7.92736, 7.92736;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="ellipse35-8-2"
+         cx="157.94609"
+         cy="180.33972"
+         rx="0.34129095"
+         ry="0.28180179" />
+      <text
+         x="161.16141"
+         y="176.81656"
+         class="fil55 fnt4"
+         id="text35-7-8-3"
+         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Rewarded poke</text>
+      <text
+         x="161.16141"
+         y="181.4346"
+         class="fil55 fnt4"
+         id="text36-3-1-6"
+         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#2b2a29;fill-rule:evenodd;stroke-width:0.0114808;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">- Unrewarded poke</text>
+      <line
+         class="fil8 str5"
+         x1="100.7474"
+         y1="162.97934"
+         x2="100.71466"
+         y2="168.7822"
+         id="line23-5"
+         style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.231314;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <text
+         x="94.598495"
+         y="162.28143"
+         class="fil55 fnt4"
+         id="text23-5"
+         style="font-weight:normal;font-size:2.61826px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0140065;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">First poke</text>
     </g>
   </g>
 </svg>
